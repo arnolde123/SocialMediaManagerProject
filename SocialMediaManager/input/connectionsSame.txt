@@ -1,0 +1,6 @@
+CONNECTION_ID,USERNAME1,USERNAME2,CONNECTED_SINCE_DATE,SOCIAL_MEDIA_PLATFORM
+WTSO7763,boyerj706,kertzmannn329,Wed Nov 16 03:42:00 EST 2016,Telegram
+WDSO6763,boyesdfrb706,kertzmannn329,Wed Aug 6 03:42:00 EST 2016,Telegram
+WTSO7763,boyesdfsrb706,kertzmannn329,Wed Nov 19 03:42:00 EST 2016,Telegram
+WDSO6763,bodfserb706,kertzmannn329,Wed Aug 21 03:42:00 EST 2016,Telegram
+bosdyerb706,bodfserb706,kertzmannn329,Wed Aug 11 03:42:00 EST 2016,Telegram
