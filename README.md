@@ -1,4 +1,4 @@
-#Social Media Manager#
+## Social Media Manager ##
 
 To access project, download and open the project in Eclipse, or another IDE. Locate the SocialMediaManager UI class found in the src folder. Right clikc the file and select "Run as Java Application."
 
